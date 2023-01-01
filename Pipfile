@@ -1,0 +1,46 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+flask-restx = "*"
+mysql = "*"
+pymysql = "*"
+pytesseract = "*"
+datetime = "*"
+flask-marshmallow = "*"
+flask-sqlalchemy = "*"
+werkzeug = "*"
+marshmallow-sqlalchemy = "*"
+flask-migrate = "*"
+keras = "*"
+tensorflow = "*"
+nltk = "*"
+pillow = "*"
+flask-mysqldb = "*"
+numpy = "*"
+aiogram = "*"
+imutils = "*"
+speechrecognition = "*"
+gtts = "*"
+pyaudio = "*"
+pyttsx3 = "*"
+playsound = "*"
+reading-image = "*"
+easyocr = "*"
+glob2 = "*"
+opencv-python = "==4.5.5.64"
+opencv-contrib-python = "*"
+opencv-contrib-python-headless = "*"
+easy-ocr = "*"
+torch = "*"
+torchvision = "*"
+argparse = "*"
+matplotlib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
